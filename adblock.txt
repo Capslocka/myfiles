@@ -1,0 +1,6 @@
+@@ddrk.me$document
+live.bilibili.com##div[id^="my-dear-haruna-vm"]
+live.bilibili.com##div[id^="anchor-guest-box-id"]
+weibo.com##div[class="woo-box-flex woo-box-alignCenter woo-box-justifyCenter woo-modal-wrap"]
+blog.csdn.net##div[class="passport-login-container"]
+blog.csdn.net##javascript
