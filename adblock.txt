@@ -1,3 +1,11 @@
+ [Adblock Plus 2.0]
+! Version: 202204121345
+! Title: Chrome AdBlock auxiliarly filters
+! Last modified: 12 Apr 2022 13:45 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://ghproxy.net/https://raw.githubusercontent.com/Capslocka/myfiles/master/adblock.txt
+
+
 @@ddrk.me$document
 live.bilibili.com##div[id^="my-dear-haruna-vm"]
 live.bilibili.com##div[id^="anchor-guest-box-id"]

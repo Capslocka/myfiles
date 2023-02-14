@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         取消不可选择
-// @namespace    http://tampermonkey.net/
+// @namespace    https://ghproxy.net/https://raw.githubusercontent.com/Capslocka/myfiles/master/unlockcopy.js
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
