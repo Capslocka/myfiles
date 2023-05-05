@@ -10,6 +10,7 @@
 live.bilibili.com##div[id^="my-dear-haruna-vm"]
 live.bilibili.com##div[id^="anchor-guest-box-id"]
 live.bilibili.com##div[id^="web-player__bottom-bar__container"]
+live.bilibili.com##div[class="adblock-tips"]
 weibo.com##div[class="woo-box-flex woo-box-alignCenter woo-box-justifyCenter woo-modal-wrap"]
 blog.csdn.net##div[class="passport-login-container"]
 blog.csdn.net##javascript
